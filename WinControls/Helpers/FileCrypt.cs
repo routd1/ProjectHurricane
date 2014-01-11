@@ -244,7 +244,7 @@ namespace ICTEAS.WinForms.Helpers
 				
 				// make sure the written and stored size are equal
 				if(outValue != lSize)
-					throw new CryptoHelpException("File Sizes don't match!");
+					throw new CryptoHelpException("File Sizes don't match you moron!!! :p");
 			}
 		}
 	}

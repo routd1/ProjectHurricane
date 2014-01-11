@@ -44,6 +44,7 @@ namespace ICTEAS.WinForms.Utilities
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
+			components.Dispose();
         }
 
         #endregion
